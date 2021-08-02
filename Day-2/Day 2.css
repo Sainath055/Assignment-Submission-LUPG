@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+#back-ground-wrapper
+{
+    background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg);
+    background-size: 100% 100% ;
+    background-repeat: no-repeat;
+
+}
+
+.logo
+{
+    color: #0086ff;
+    font-size: 60px;
+    letter-spacing: -1px;
+    font-weight: 900;
+    font-family: 'Raleway', sans-serif;
+    margin: 8px;
+    
+}
+
+.t1
+{
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    color: rgba(32, 26, 26, 0.363);
+    margin-left: 12px;
+    padding-bottom: 16px;
+}
+
+.t2
+{
+    font-family: 'Raleway', sans-serif;
+    color: rgba(51, 93, 105, 0.705);
+    margin-left: 3px;
+}
+
+#content
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 22px;
+    background-color: rgba(165, 120, 159, 0.199);
+    border-radius: 48px;
+    word-spacing: 2px;
+} 
